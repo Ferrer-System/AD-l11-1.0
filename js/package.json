@@ -4,24 +4,24 @@
     "description": "JavaScript unit test with Jest",
     "main": "index.js",
     "scripts": {
-      "test": "jest"
+        "test": "jest"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/generation-org/JS.git"
+        "type": "git",
+        "url": "git+https://github.com/generation-org/JS.git"
     },
     "keywords": [
-      "JavaScript",
-      "Testing",
-      "Jest"
+        "JavaScript",
+        "Testing",
+        "Jest"
     ],
     "author": "Santiago Carrillo",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/generation-org/JS/issues"
+        "url": "https://github.com/generation-org/JS/issues"
     },
     "homepage": "https://github.com/generation-org/JS#readme",
     "devDependencies": {
-      "jest": "^25.2.4"
+        "jest": "^30.3.0"
     }
-  }
+}
